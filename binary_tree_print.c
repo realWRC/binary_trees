@@ -42,7 +42,6 @@ static int print_t(const binary_tree_t *tree, int offset, int depth, char **s)
 	}
 	return (left + width + right);
 }
-
 /**
  * _height - Measures the height of a binary tree
  *
